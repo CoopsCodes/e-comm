@@ -1,0 +1,22 @@
+{
+  "name": "ecommsite",
+  "version": "1.0.0",
+  "description": "MERN ecomm site",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoopsCodes/e-comm.git"
+  },
+  "author": "Cooper Viktor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CoopsCodes/e-comm/issues"
+  },
+  "homepage": "https://github.com/CoopsCodes/e-comm#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
