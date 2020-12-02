@@ -19,7 +19,7 @@ const Header = () => {
 							</LinkContainer>
 							<LinkContainer to="/login">
 								<Nav.Link>
-									<i class="far fa-user-circle" /> Sign In
+									<i className="far fa-user-circle" /> Sign In
 								</Nav.Link>
 							</LinkContainer>
 						</Nav>
